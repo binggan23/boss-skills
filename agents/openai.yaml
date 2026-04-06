@@ -1,0 +1,4 @@
+interface:
+  display_name: "Boss Skills / 创建老板档案"
+  short_description: "Bilingual evidence-backed boss archive for Codex, Claude Code, and OpenClaw."
+  default_prompt: "Use $boss-skills to initialize a real boss archive with /boss:init, import evidence, and expose guarded boss modes only after the archive is ready."

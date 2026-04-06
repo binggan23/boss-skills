@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Test and tooling artifacts
+tests/.tmp/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local dependency/vendor directories
+.vendor/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Generated boss archives
+bosses/*
+!bosses/.gitkeep
+
+# Optional local product doc
+docs/PRD.md
