@@ -9,10 +9,11 @@
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-Skill-blueviolet)](https://claude.ai/code)
 [![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-green)](https://agentskills.io)
 
-<br>
 **本项目纯属娱乐，请勿带入现实**
-你的老板总能在 30 秒内否掉一个方案，  
-但没人能准确说清楚他到底在看什么。
+<br>
+
+- 你的老板总能在 30 秒内否掉一个方案，  
+- 但没人能准确说清楚他到底在看什么。
 
 提供老板的聊天记录、批注、邮件、会议纪要、截图和你的补充说明，  
 生成一个专属于你的赛博老板。
@@ -285,3 +286,4 @@ boss-skills/
 
 如果你想把“老板”变成一个正式、可维护、可回滚、可纠正的 Skill，  
 `boss-skills` 就是那个适合开源出来的骨架。
+**注意：本项目纯属娱乐，请勿带入实际工作使用**
